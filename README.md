@@ -2,4 +2,4 @@
 
 #### Using ExpressJS with MongoDB
 
-I use express framework along with mongoos.js
+I use express framework along with mongoose.js
